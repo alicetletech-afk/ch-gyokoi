@@ -1,7 +1,5 @@
-Gyokoi Personal Profile — Final
+Gyokoi Personal Profile — final with resume
 
-Open index.html in your browser.
+Open index.html in a browser. The Resume card downloads assets/Tamonwan_Ontong_Resume.pdf. Keep the assets folder beside index.html when publishing.
 
-Phone and email cards work. Resume PDF is not yet supplied; add your PDF as assets/Gyokoi_Resume.pdf, then replace the Resume <div class="connect-card is-pending"> with an <a class="connect-card" href="assets/Gyokoi_Resume.pdf" download> element and its matching closing tag.
-
-TikTok and Instagram links work. Lemon8 and gallery photos are placeholders until supplied.
+TikTok and Instagram links are active. Lemon8 and gallery images remain placeholders.
